@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 👩🏻‍💻 I'm switching careers to become a back-end web developer
+- 🎬 I'm currently working on my project "Netflix "<a href="https://github.com/marcellamalune/netflix">(repo)</a>
+- 🚀 I recently attended a 3 months Web Development coding bootcamp 
+- 🎓 I'm currently studying Computer Science at University of Milan
+- 🧠 I'm interested in data, AI and machine learning
+- 📫 How to reach me: <a href="linkedin.com/in/marcellamalune/">LinkedIn</a>
+- ⚡ Fun fact: previously I was a customer care manager in a web agency
+
 <!--
 **marcellamalune/marcellamalune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
