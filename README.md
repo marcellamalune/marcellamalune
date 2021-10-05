@@ -5,7 +5,7 @@
 - 🚀 I recently attended a 3 months Web Development coding bootcamp 
 - 🎓 I'm currently studying Computer Science at University of Milan
 - 🧠 I'm interested in data, AI and machine learning
-- 📫 How to reach me: <a href="linkedin.com/in/marcellamalune/">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/marcellamalune/">LinkedIn</a>
 - ⚡ Fun fact: previously I was the customer care manager of a web agency
 
 <!--
