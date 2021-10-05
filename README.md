@@ -6,7 +6,7 @@
 - 🎓 I'm currently studying Computer Science at University of Milan
 - 🧠 I'm interested in data, AI and machine learning
 - 📫 How to reach me: <a href="linkedin.com/in/marcellamalune/">LinkedIn</a>
-- ⚡ Fun fact: previously I was a customer care manager in a web agency
+- ⚡ Fun fact: previously I was the customer care manager of a web agency
 
 <!--
 **marcellamalune/marcellamalune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
