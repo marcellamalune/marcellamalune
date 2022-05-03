@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 👩🏻‍💻 I recently switched careers to become a back-end web developer
-- 🎬 I'm currently working on my project "Netflix "<a href="https://github.com/marcellamalune/netflix">(repo)</a>
+- 👩🏻‍💻 I recently switched careers to become a web developer
+- ⛓ I'm currently exploring the web3 ecosystem
 - 🎓 I'm currently studying Computer Science at University of Milan
 - 🧠 I'm interested in data, AI and machine learning
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/marcellamalune/">LinkedIn</a>
