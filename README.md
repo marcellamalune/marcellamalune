@@ -2,8 +2,7 @@
 
 - 👩🏻‍💻 I recently switched careers to become a web developer
 - ⛓ I'm currently exploring the web3 ecosystem
-- 🎓 I'm currently studying Computer Science at University of Milan
-- 🧠 I'm interested in data, AI and machine learning
+- 🎓 In my free time I study Computer Science at University of Milan
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/marcellamalune/">LinkedIn</a>
 - ⚡ Fun fact: previously I was the customer care manager of a web agency
 
